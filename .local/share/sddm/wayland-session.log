@@ -1,0 +1,102 @@
+/bin/sh: line 1: exec: xrdb: not found
+/bin/sh: line 1: wl-clipboard-history: command not found
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0==> ERROR: Cannot fetch updates
+
+** (waybar:7265): WARNING **: 12:37:21.698: Status Notifier Item with bus name ':1.50' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+(waybar:7265): Gtk-CRITICAL **: 12:37:21.715: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:7265): Gtk-CRITICAL **: 12:37:21.715: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:7265): Gtk-CRITICAL **: 12:37:21.716: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:7265): Gtk-CRITICAL **: 12:37:21.716: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:7265): Gtk-CRITICAL **: 12:37:21.716: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:7265): Gtk-CRITICAL **: 12:37:21.716: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(nm-applet:7256): Gtk-CRITICAL **: 12:37:21.775: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0time="2024-01-23T12:37:23Z" level=info msg="Data dir: /home/garuda/.local/share/nwg-drawer"
+time="2024-01-23T12:37:23Z" level=info msg="Creating dir: /home/garuda/.local/share/nwg-drawer"
+time="2024-01-23T12:37:23Z" level=info msg="term: foot"
+time="2024-01-23T12:37:23Z" level=info msg="lang: en_US"
+time="2024-01-23T12:37:23Z" level=info msg="Config dir: /home/garuda/.config/nwg-drawer"
+time="2024-01-23T12:37:23Z" level=info msg="Found 0 pinned items"
+time="2024-01-23T12:37:23Z" level=info msg="Found 88 desktop files"
+time="2024-01-23T12:37:23Z" level=info msg="Skipped 0 duplicates; 22 .desktop entries hidden by \"NoDisplay=true\""
+time="2024-01-23T12:37:23Z" level=info msg="/home/garuda/.config/nwg-drawer/preferred-apps.json file not found"
+time="2024-01-23T12:37:23Z" level=info msg="/home/garuda/.config/nwg-drawer/excluded-dirs file not found"
+  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0time="2024-01-23T12:37:23Z" level=info msg="Preferring dark theme variants"
+time="2024-01-23T12:37:23Z" level=info msg="Using style from /home/garuda/.config/nwg-drawer/drawer.css"
+time="2024-01-23T12:37:23Z" level=info msg="Setting GTK layer shell keyboard mode to default: exclusive"
+time="2024-01-23T12:37:23Z" level=warning msg="userDirsFile user-dirs.dirs not found, using defaults"
+time="2024-01-23T12:37:23Z" level=info msg="UI created in 374 ms. Thank you for your patience."
+100    39  100    39    0     0     14      0  0:00:02  0:00:02 --:--:--    14
+
+(nm-applet:7256): Gtk-CRITICAL **: 12:37:28.718: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+Warning: [qt.qpa.wayland] QtWarning: Wayland does not support QWindow::requestActivate()
+Warning: [kf.windowsystem] QtWarning: Could not find any platform plugin
+
+(nm-applet:7256): Gtk-CRITICAL **: 12:37:39.145: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:7256): Gtk-CRITICAL **: 12:37:45.143: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:7256): Gtk-CRITICAL **: 12:37:51.142: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+warn: terminal.c:1802: slave exited with signal 1 (Hangup)
+
+(nm-applet:7256): Gtk-CRITICAL **: 12:38:21.147: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0Overriding existing handler for signal 10. Set JSC_SIGNAL_FOR_GC if you want WebKit to use a different signal
+100    39  100    39    0     0     68      0 --:--:-- --:--:-- --:--:--    68
+
+(nm-applet:7256): Gtk-CRITICAL **: 12:38:27.145: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+warn: terminal.c:1802: slave exited with signal 15 (Terminated)
+
+(nm-applet:7256): Gtk-CRITICAL **: 12:38:39.142: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:7256): Gtk-CRITICAL **: 12:38:51.146: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+ThunarThumbnailer: Failed to retrieve supported types: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.thumbnails.Thumbnailer1 was not provided by any .service files
+
+(thunar:8902): GLib-GIO-CRITICAL **: 12:39:00.289: GFileInfo created without standard::size
+
+(thunar:8902): GLib-GIO-CRITICAL **: 12:39:00.289: file ../glib/gio/gfileinfo.c: line 1846 (g_file_info_get_size): should not be reached
+
+(thunar:8902): GLib-GIO-CRITICAL **: 12:39:00.291: GFileInfo created without standard::size
+
+(thunar:8902): GLib-GIO-CRITICAL **: 12:39:00.291: file ../glib/gio/gfileinfo.c: line 1846 (g_file_info_get_size): should not be reached
+
+(nm-applet:7256): Gtk-CRITICAL **: 12:39:03.143: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:7256): Gtk-CRITICAL **: 12:39:09.145: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+ThunarThumbnailer: Failed to retrieve supported types: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.thumbnails.Thumbnailer1 was not provided by any .service files
+
+(thunar:9081): GLib-GIO-CRITICAL **: 12:39:24.165: GFileInfo created without standard::size
+
+(thunar:9081): GLib-GIO-CRITICAL **: 12:39:24.165: file ../glib/gio/gfileinfo.c: line 1846 (g_file_info_get_size): should not be reached
+
+(thunar:9081): GLib-GIO-CRITICAL **: 12:39:24.166: GFileInfo created without standard::size
+
+(thunar:9081): GLib-GIO-CRITICAL **: 12:39:24.166: file ../glib/gio/gfileinfo.c: line 1846 (g_file_info_get_size): should not be reached
+
+(nm-applet:7256): Gtk-CRITICAL **: 12:39:27.148: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(thunar:9081): thunar-WARNING **: 12:39:36.380: Failed to launch the volume manager (Failed to execute child process “thunar-volman” (No such file or directory)), make sure you have the "thunar-volman" package installed.
+
+(thunar:9081): thunar-WARNING **: 12:39:36.382: Failed to launch the volume manager (Failed to execute child process “thunar-volman” (No such file or directory)), make sure you have the "thunar-volman" package installed.
+
+(thunar:9081): thunar-WARNING **: 12:39:37.506: Failed to launch the volume manager (Failed to execute child process “thunar-volman” (No such file or directory)), make sure you have the "thunar-volman" package installed.
+
+(thunar:9081): GLib-GIO-CRITICAL **: 12:39:38.682: GFileInfo created without standard::size
+
+(thunar:9081): GLib-GIO-CRITICAL **: 12:39:38.682: file ../glib/gio/gfileinfo.c: line 1846 (g_file_info_get_size): should not be reached
+
+(nm-applet:7256): Gtk-CRITICAL **: 12:39:39.148: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:7256): Gtk-CRITICAL **: 12:39:57.147: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:7256): Gtk-CRITICAL **: 12:40:03.145: gtk_widget_get_scale_factor: assertion 'GTK_IS_WIDGET (widget)' failed
+ThunarThumbnailCache: failed to call Copy(): GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.thumbnails.Cache1 was not provided by any .service files

@@ -1,0 +1,4 @@
+https:push.services.mozilla.com:443:.::3	0	19745	https:push.services.mozilla.com:443:push.services.mozilla.com:443::n:1708605533:h3:y:1706013531:n::|n:y:
+https:versioncheck-bg.addons.mozilla.org:443:.::3	0	19745	https:versioncheck-bg.addons.mozilla.org:443:versioncheck-bg.addons.mozilla.org:443::n:1708605561:h3:y:1706013531:n::|n:y:
+https:cdn.statically.io:443:.::3	0	19745	https:cdn.statically.io:443:cdn.statically.io:443::n:1706099959:h3:y:1706013531:n::|n:y:
+https:ublockorigin.pages.dev:443:.::3	0	19745	https:ublockorigin.pages.dev:443:ublockorigin.pages.dev:443::n:1706099962:h3:y:1706013531:n::|n:y:

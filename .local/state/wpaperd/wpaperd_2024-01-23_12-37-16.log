@@ -1,0 +1,8 @@
+ERROR [wpaperd] 
+   0: [91mdispatching the event loop[0m
+   1: [91mother error during loop operation[0m
+   2: [91munderlying IO error[0m
+   3: [91mBroken pipe (os error 32)[0m
+
+Backtrace omitted. Run with RUST_BACKTRACE=1 environment variable to display it.
+Run with RUST_BACKTRACE=full to include source snippets.
